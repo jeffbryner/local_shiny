@@ -7,5 +7,5 @@ Yes you can start shiny with less. Using starlette you get routes, sessions, etc
 
 ## Make it go
 - Clone the repo
-- Install dependencies
+- Install dependencies (pip install -r requirements.txt)
 - python local_shiny.py
